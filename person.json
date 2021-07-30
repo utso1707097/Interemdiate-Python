@@ -1,0 +1,11 @@
+{
+    "name": "utso",
+    "age": 20,
+    "city": "Chuadanga",
+    "haschild": false,
+    "titles": [
+        "Engineer",
+        "Scientist",
+        "Programmer"
+    ]
+}
